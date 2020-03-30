@@ -1,0 +1,138 @@
+body{
+    background-image: url(../Pagina/Degradado.jpg);
+}
+
+*{
+    margin: 0;
+    left: 0;
+    top: 0;
+}
+#Nav{
+    
+    width: 100;
+    height: 60px;
+    background-color: aqua;
+}
+#Nav h1{
+    text-align: center;
+    color: white;
+    font-family: arial;
+    padding: 15px;
+    font-size: 30px;
+
+}
+
+.Titulo{
+    text-align: left;
+    text-align: center;
+    color: purple;
+    font-family: blinkMacSystemFont;
+    padding: 15px;
+    font-size: 30px;
+}
+
+.Contenido{
+    margin: auto;
+    background-color: yellow;
+    font-family: arial;
+    font-size: 20px;
+    color: black;
+    max-width: 700px;
+    padding: 15px;
+}
+
+
+.Contenido1{
+    margin: auto;
+    background-color: blue ;
+    font-family: arial;
+    font-size: 20px;
+    color: yellow;
+    max-width: 700px;
+    padding: 15px;
+}
+
+
+.Con{
+    margin: auto;
+    background-color: red;
+    font-family: arial;
+    font-size: 20px;
+    color: black;
+    max-width: 700px;
+    padding: 15px;
+}
+
+.Contenido3{
+    margin: auto;
+    background-color:pink;
+    font-family: arial;
+    font-size: 20px;
+    color: green;
+    max-width: 700px;
+    padding: 15px;
+}
+
+.Contenido4{
+    margin: auto;
+    background-color: black;
+    font-family: arial;
+    font-size: 20px;
+    color: white ;
+    max-width: 700px;
+    padding: 15px;
+}
+
+.Contenido5{
+    margin: auto;
+    background-color: purple;
+    font-family: arial;
+    font-size: 20px;
+    color: white;
+    max-width: 700px;
+    padding: 15px;
+}
+
+.Contenido6{
+    margin: auto;
+    background-color: white;
+    font-family: arial;
+    font-size: 20px;
+    color: black;
+    max-width: 700px;
+    padding: 15px;
+}
+
+
+.Contenido7{
+    margin: auto;
+    background-color: green;
+    font-family: arial;
+    font-size: 20px;
+    color: gray;
+    max-width: 700px;
+    padding: 15px;
+}
+
+.Contenido8{
+    margin: auto;
+    background-color: gray;
+    font-family: arial;
+    font-size: 20px;
+    color: pink;
+    max-width: 700px;
+    padding: 15px;
+}
+
+.Contenido9{
+    margin: auto;
+    background-color: brown;
+    font-family: arial;
+    font-size: 20px;
+    color: beige;
+    max-width: 700px;
+    padding: 15px;
+}
+
+
+
